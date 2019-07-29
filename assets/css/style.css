@@ -1,0 +1,83 @@
+#back1 {
+    position: fixed;
+    height: 150%;
+    width: 150%;
+}
+#nav1 {
+        text-align: center;
+}
+#part0 {
+    border: solid black;
+    text-align: center;
+    padding: 30px;
+    background-color: grey;
+    color: lightgrey;
+    text-shadow: 5px;
+    filter: drop-shadow(0 0 0.75rem black);
+}
+#part1 {      
+    padding: 30px;
+    border: solid black;
+    background-color: whitesmoke;
+    filter: drop-shadow(0 0 0.75rem black);
+}
+#part2 {
+    height: 650px;
+    padding: 30px;
+    border: solid black;
+    background-color: whitesmoke;
+    filter: drop-shadow(0 0 0.75rem whitesmoke);
+}
+#part3 {
+    height: 650px;
+    padding: 30px;
+    border: solid black;
+    background-color: lightgrey;
+    filter: drop-shadow(0 0 0.75rem whitesmoke);
+}
+#part4 {
+    height: 650px;
+    padding: 30px;
+    border: solid black;
+    background-color: whitesmoke;
+    filter: drop-shadow(0 0 0.75rem whitesmoke);
+}
+#partC {
+    background-color: whitesmoke;
+    padding: 30px;
+    height: 700px;
+    border: solid black;  
+    filter: drop-shadow(0 0 0.75rem whitesmoke); 
+}
+#img1 {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+#img2 {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+#img3 {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+#img4 {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+#img5 {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+#h3a {
+    text-align: center;
+    text-emphasis: bold;
+}
+.work {
+    padding: 10px;
+}
