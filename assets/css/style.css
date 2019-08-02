@@ -20,6 +20,7 @@
     border: solid black;
     background-color: whitesmoke;
     filter: drop-shadow(0 0 0.75rem black);
+    color: black;
 }
 #part2 {
     height: 650px;
@@ -86,5 +87,8 @@
 }
 #img2 {
     height: 15%;
+}
+#nav1 {
+    color: black;
 }
 
